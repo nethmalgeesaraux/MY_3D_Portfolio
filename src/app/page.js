@@ -1,8 +1,9 @@
 import Image from "next/image";
 import bg from "../../public/background/home-background.png";
-import { Navigation } from "lucide-react";
+
 import RenderModel from "@/components/RenderModel";
 import Wizard from "@/components/Model/Wizard";
+import Navigation from "@/components/navigation";
 
 
 export default function Home() {
